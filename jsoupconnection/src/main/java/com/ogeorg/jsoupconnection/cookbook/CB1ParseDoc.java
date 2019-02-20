@@ -3,6 +3,12 @@ package com.ogeorg.jsoupconnection.cookbook;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
+/**
+ * Cookbook - parsing document
+ * 
+ * @author POLGEO0
+ *
+ */
 public class CB1ParseDoc
 {
 	public static void main(String[] args)
