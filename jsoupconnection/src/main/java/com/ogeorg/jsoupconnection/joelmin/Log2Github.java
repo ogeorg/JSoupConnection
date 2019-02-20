@@ -11,6 +11,12 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.FormElement;
 
+/**
+ * Class for testing connection 2 github
+ * 
+ * @author POLGEO0
+ *
+ */
 public class Log2Github
 {
 	String	host			= "github.com";
